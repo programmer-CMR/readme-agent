@@ -1,0 +1,42 @@
+name: Daily README Update
+
+on:
+  schedule:
+    - cron: '02 9 * * *'  # 10:02 Cameroon time (UTC+1)
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Debug PAT token presence
+        run: |
+          echo "PAT_TOKEN is set: ${{ secrets.PAT_TOKEN != '' }}"
+          if [ -n "${{ secrets.PAT_TOKEN }}" ]; then echo "PAT_TOKEN is not empty"; else echo "PAT_TOKEN is empty"; fi
+
+      - name: Run AI README agent
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          REPO_NAME: ${{ github.repository }}
+          BRANCH: main
+          EMAIL_HOST: ${{ secrets.EMAIL_HOST }}
+          EMAIL_PORT: ${{ secrets.EMAIL_PORT }}
+          EMAIL_HOST_USER: ${{ secrets.EMAIL_HOST_USER }}
+          EMAIL_HOST_PASSWORD: ${{ secrets.EMAIL_HOST_PASSWORD }}
+          EMAIL_RECEIVER: ${{ secrets.EMAIL_RECEIVER }}
+        run: python main.py
