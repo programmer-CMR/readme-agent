@@ -8,12 +8,11 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology isn't inherently good or bad.
-It's a lever. A tool to amplify what's already there.
-Bad intentions get amplified just as easily.
-So, focus on building better humans first.
-Otherwise, we're just giving power to a broken system.
+> "New tech doesn't fix broken systems.
+It just speeds them up.
+Think about what you *want* to build.
+Then ask if this tool actually helps,
+Or if it just makes the mess faster."
+- Elias Vance"
 
-- Dr. Aris Thorne"
-
-*🕒 Updated on 2025-08-23 11:12*
+*🕒 Updated on 2025-08-23 14:10*
