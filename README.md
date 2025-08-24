@@ -8,11 +8,7 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology promises ease, but delivers constant learning. If you aren't willing to upgrade your skills every few years,
-you become the bottleneck, not the beneficiary. Progress favors the adaptable, not the simply hopeful.
-Don't confuse shiny objects with actual solutions. Measure real-world impact, or you are just wasting time and resources.
-Always ask, "What problem does this *actually* solve?" before getting swept away.
+> "Technology moves forward whether you like it or not. Complaining is a waste of time. Figure out how to use it, or you'll be left behind. Don't get distracted by shiny objects; focus on what solves real problems. Adapt, learn, and build, or become obsolete."
+- Katherine "Kay" Faraday"
 
-- Eleanor Vance"
-
-*🕒 Updated on 2025-08-24 08:13*
+*🕒 Updated on 2025-08-24 11:12*
