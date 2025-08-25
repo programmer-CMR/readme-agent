@@ -8,11 +8,15 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology doesn't wait for your feelings.
-It's a tool, not a friend.
-If you can't use it effectively,
-it will leave you behind.
-Learn to adapt, or become obsolete.
-- Anita Sharma"
+> "Technology isn't inherently good or bad. It's a tool.
 
-*🕒 Updated on 2025-08-25 11:14*
+Its value depends entirely on who is wielding it,
+
+and what they intend to build with it.
+
+Think long term about the second-order consequences
+
+before blindly embracing every new shiny thing."
+- Alistair Crowley, Ethical Engineer"
+
+*🕒 Updated on 2025-08-25 14:13*
