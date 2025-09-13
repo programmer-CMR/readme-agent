@@ -8,12 +8,12 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology advances whether you like it or not.
-It's a tool, not a philosophy, understand that.
-Learn to use it to solve real problems.
-Ignoring it only guarantees you'll be left behind.
-Don't be romantic, be effective.
+> "Technology isn't a magic wand.
+It's a tool. A powerful one, yes.
+But if you don't know what you're building,
+or who you're building it for,
+it will probably break everything.
 
-- Ada Lovelace Turing"
+- Janice McKinley"
 
-*🕒 Updated on 2025-09-12 20:10*
+*🕒 Updated on 2025-09-13 08:13*
