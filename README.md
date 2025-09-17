@@ -8,11 +8,12 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology's promise isn't perfection; it's a lever.
-Use it to lift up, not to bury.
-If your tools worsen inequalities, rethink them.
-Progress demands more than just faster processors.
-It requires considering the consequences for everyone.
-- Eleanor Vance"
+> "Technology doesn't wait for permission, or for everyone to catch up.
+It keeps moving, whether we're ready or not.
+The real challenge isn't inventing new things,
+it's figuring out how to use them responsibly,
+before they use us.
 
-*🕒 Updated on 2025-09-17 11:12*
+- Evelyn Reed"
+
+*🕒 Updated on 2025-09-17 14:12*
