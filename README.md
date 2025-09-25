@@ -8,11 +8,11 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology is a tool, nothing more.
-It amplifies what already exists.
-If you are kind, it spreads kindness faster.
-If you are cruel, it empowers cruelty further.
-Don't blame the machine; fix the operator.
-- Anya Sharma"
+> "Technology isn't inherently good or bad.
+It's a tool. A very powerful one.
+The only progress that matters
+is the progress that helps everyone,
+not just the ones building the tool.
+- Alistair Ramsey"
 
-*🕒 Updated on 2025-09-25 17:59*
+*🕒 Updated on 2025-09-25 20:35*
