@@ -8,11 +8,12 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology isn't inherently good or bad; it's a tool.
-It amplifies existing human tendencies, both positive and negative.
-Focus solely on advancement without ethical consideration,
-and you're building a faster route to the wrong destination.
-Don't mistake speed for progress, know where you're going.
-- Alice Chen"
+> "Technology isn't inherently good or bad.
+It amplifies what's already there: greed, kindness, efficiency.
+Focus on the input. Build systems for the common good.
+Otherwise, progress is just a faster road to the same ditch.
+And that ditch is often deeper than we imagine.
 
-*🕒 Updated on 2025-09-30 11:29*
+- Elias Thorne"
+
+*🕒 Updated on 2025-09-30 14:36*
