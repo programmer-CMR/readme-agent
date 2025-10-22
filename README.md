@@ -8,11 +8,16 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology advances. That's its job.
-We have to decide what it gets used for,
-and who gets to benefit from it.
-If we don't actively shape its direction,
-it will shape us in ways we might not like.
-- Eleanor Vance"
+> "Technology is a tool. It amplifies what's already there.
 
-*🕒 Updated on 2025-10-22 08:53*
+If you're building something useful, technology can make it faster and bigger.
+
+If you're building something destructive, it will do the same.
+
+Don't assume progress is inherently good. Question everything's purpose.
+
+The technology itself isn't the answer, it's just the accelerator.
+
+- Ada Lovelace, Systems Analyst"
+
+*🕒 Updated on 2025-10-22 11:29*
