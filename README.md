@@ -8,11 +8,11 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology doesn't wait for permission.
-It'll keep changing, whether you're ready or not.
-Focus on what problems it *actually* solves,
-not just the shiny new features.
-Or you'll be solving yesterday's problems, tomorrow.
-- Dr. Elias Thorne"
+> "Technology advances. That's its job.
+We have to decide what it gets used for,
+and who gets to benefit from it.
+If we don't actively shape its direction,
+it will shape us in ways we might not like.
+- Eleanor Vance"
 
-*🕒 Updated on 2025-10-21 20:40*
+*🕒 Updated on 2025-10-22 08:53*
