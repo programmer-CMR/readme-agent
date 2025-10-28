@@ -1,3 +1,4 @@
 google-generativeai
 PyGithub
 python-dotenv
+packaging>=23.0
