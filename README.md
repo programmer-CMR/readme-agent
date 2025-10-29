@@ -8,11 +8,12 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology doesn't automatically improve things.
-It amplifies existing intentions, good or bad.
-Think before you automate.
-Consider the human cost, the unintended consequences.
-Progress isn't just speed; it's also direction.
-- Anya Sharma"
+> "Technology gives us tools.
+Whether those tools build or break
+depends entirely on who's holding them
+and what goals they've set.
+Progress isn't inevitable. It's a choice.
 
-*🕒 Updated on 2025-10-29 17:25*
+- Eleanor Vance"
+
+*🕒 Updated on 2025-10-29 20:26*
