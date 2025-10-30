@@ -8,11 +8,7 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology advances regardless of our preparedness.
-Ignoring its impact on jobs is a short-term fix.
-Retraining and new skills are now mandatory, not optional.
-Companies and governments must invest in adaptation for workers, or face widespread disruption.
-The future isn't coming; it's already here, reshaping the present."
-- Anita Sharma"
+> "Technology’s supposed to make things easier, not replace common sense. Just because you *can* automate something doesn’t automatically mean you *should*. We've gotten so good at creating complex systems that we’ve forgotten how to solve basic problems without them. Check if the damn thing is even plugged in before you call tech support. Progress without purpose is just noisy motion.
+- Eleanor Vance"
 
-*🕒 Updated on 2025-10-30 08:32*
+*🕒 Updated on 2025-10-30 11:19*
