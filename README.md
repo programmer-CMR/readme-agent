@@ -8,11 +8,12 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology solves problems, but it creates new ones too.
-Don't assume newer is always better; understand the trade-offs.
-Think about the resources used to build it and the waste it generates.
-Progress isn’t just faster and cheaper; it’s sustainable and ethical.
-Consider who benefits and who is left behind in the rush to innovate.
-- Anya Sharma, Systems Analyst"
+> "Technology solves problems.
+It also creates new ones.
+Focus on the human cost, not just the efficiency gain.
+Progress isn't automatic; it requires ethical oversight.
+Don't let algorithms decide our values.
 
-*🕒 Updated on 2025-11-04 11:21*
+- Eleanor Vance, Systems Analyst"
+
+*🕒 Updated on 2025-11-04 14:21*
