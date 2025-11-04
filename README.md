@@ -10,14 +10,14 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 > "Technology isn't magic. It's a tool.
 
-Like any tool, it can build or destroy.
+Tools can build empires or destroy lives, depending on who's holding them and what they want.
 
-Its impact depends entirely on the choices
+Faster isn't always better. Think about what you're actually speeding toward.
 
-made by those who wield it, and the goals
+Progress should solve real problems, not create new ones that only tech can fix.
 
-they set before they even begin.
+If it makes the world more complicated for the average person, it's probably not progress.
 
-- Elias Vance"
+- Evelyn Reed"
 
-*🕒 Updated on 2025-11-04 17:22*
+*🕒 Updated on 2025-11-04 20:26*
