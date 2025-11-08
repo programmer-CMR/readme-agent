@@ -8,12 +8,11 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology isn't magic. It's a tool.
-It can build a house, or burn it down.
-Focus less on the tool itself, and more
-on who's holding it and what they intend to do.
-Good intentions don't guarantee good outcomes, either; think it through.
+> "Here's that quote:
 
-- Eleanor Vance"
+Technology's promise isn't just shiny gadgets. It's about fixing what's broken in the real world. Can it get food to more people? Can it improve healthcare access? Can it clean up the planet? If not, it's just a distraction.
+These are the questions we should be asking, before the hype takes over.
 
-*🕒 Updated on 2025-11-08 11:17*
+- Ada Lovelace Velez"
+
+*🕒 Updated on 2025-11-08 14:16*
