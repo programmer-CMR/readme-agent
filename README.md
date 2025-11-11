@@ -8,8 +8,10 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology promised shortcuts, but delivered detours. Every tool solves one problem, creating three more. Efficiency gains are eaten by complexity. The speed of progress only reveals how far we still have to go. Remember the human cost before celebrating the machine's victory.
+> "Here's that quote:
 
-- Anya Sharma"
+"New tech doesn't solve old problems. It amplifies them. A faster car means a faster crash. A bigger database means a bigger leak. If your systems are broken, better software just makes the break happen quicker and to more people. Fix the foundations before you build the skyscraper, or it'll all come down.
 
-*🕒 Updated on 2025-11-11 17:24*
+- Elias Thorne"
+
+*🕒 Updated on 2025-11-11 20:26*
