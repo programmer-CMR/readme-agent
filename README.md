@@ -8,11 +8,11 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology is a tool, not a magic wand.
-It can build a better world, or tear one down.
-Focus on the problem you're solving, not the gadget.
-Remember people, ethics, and consequences.
-Otherwise, progress becomes a very expensive mistake."
-- Anya Sharma"
+> "Technology doesn't solve problems; people do.
+It just changes the tools.
+If you automate a broken process,
+you get a faster broken process.
+Always remember to fix the root cause, not just the symptom.
+- Wernher Von Braun"
 
-*🕒 Updated on 2025-11-10 20:27*
+*🕒 Updated on 2025-11-11 08:32*
