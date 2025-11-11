@@ -8,11 +8,12 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology doesn't solve problems; people do.
-It just changes the tools.
-If you automate a broken process,
-you get a faster broken process.
-Always remember to fix the root cause, not just the symptom.
-- Wernher Von Braun"
+> "Technology doesn't solve problems, people do.
+It just provides faster shovels.
+Don't confuse new tools with new thinking.
+Progress isn't about more buttons, it's about better choices.
+Remember that the off switch still exists.
 
-*🕒 Updated on 2025-11-11 08:32*
+- Evelyn Reed"
+
+*🕒 Updated on 2025-11-11 11:20*
