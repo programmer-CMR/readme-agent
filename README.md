@@ -8,11 +8,12 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology changes things. That's its job.
-It doesn't inherently make them better or worse.
-It amplifies what was already there.
-If you build better tools, build better people to use them.
-Otherwise, you're just making bigger problems faster.
-- Eleanor Vance"
+> "Technology isn't neutral.
+Every advancement creates a new set of problems.
+Ignoring those problems is a choice.
+It means you're okay with someone else paying the price for your progress.
+So, think before you automate.
 
-*🕒 Updated on 2025-11-12 08:33*
+- Dr. Elias Thorne"
+
+*🕒 Updated on 2025-11-12 11:20*
