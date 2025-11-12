@@ -8,10 +8,11 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Here's that quote:
+> "Technology changes things. That's its job.
+It doesn't inherently make them better or worse.
+It amplifies what was already there.
+If you build better tools, build better people to use them.
+Otherwise, you're just making bigger problems faster.
+- Eleanor Vance"
 
-"New tech doesn't solve old problems. It amplifies them. A faster car means a faster crash. A bigger database means a bigger leak. If your systems are broken, better software just makes the break happen quicker and to more people. Fix the foundations before you build the skyscraper, or it'll all come down.
-
-- Elias Thorne"
-
-*🕒 Updated on 2025-11-11 20:26*
+*🕒 Updated on 2025-11-12 08:33*
