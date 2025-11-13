@@ -8,12 +8,11 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology solves problems, sure.
-But it also creates new ones, guaranteed.
-Focus less on the shiny gadget,
-And more on the actual impact.
-What's improved, and for whom?
+> "Technology isn't magic, it's a tool.
+A faster way to do things, not a replacement for thought.
+If your systems fail, know how to work without them.
+Progress means building things that actually last, not just look good.
+Focus on fixing the problems, not just buying the latest update.
+- Ada Lovelace Jr."
 
-- Elias Vance"
-
-*🕒 Updated on 2025-11-13 14:20*
+*🕒 Updated on 2025-11-13 17:26*
