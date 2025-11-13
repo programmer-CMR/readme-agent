@@ -8,12 +8,12 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology isn't inherently good or bad. It's a tool.
-Use it to solve problems, not create new ones.
-Think about consequences before you deploy.
-Data collection demands responsibility and transparency.
-Progress should benefit everyone, not just the few.
+> "Technology isn't inherently good or bad.
+It's a tool, like a hammer.
+You can build a house, or smash a skull.
+The outcome depends on who is holding it,
+and what they intend to create or destroy.
 
-- Elias Vance"
+- Elias Thorne"
 
-*🕒 Updated on 2025-11-12 17:26*
+*🕒 Updated on 2025-11-13 08:32*
