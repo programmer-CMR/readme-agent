@@ -8,11 +8,10 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology's promise isn't just gadgets or speed.
-It's the power to actually fix things,
-like hunger, disease, and ignorance.
-If your invention doesn't address a basic human need,
-it's just a distraction, not true progress.
-- Evelyn Reed"
+> "Here's one:
 
-*🕒 Updated on 2025-11-14 11:20*
+Technology should solve problems, not create new ones disguised as solutions. Before you automate, understand the process. Before you connect, consider the security. Before you amplify, think about the signal. Always ask, "What is the real cost?" This isn't about stopping progress, it's about responsible progress.
+
+- Janet Ito"
+
+*🕒 Updated on 2025-11-14 14:20*
