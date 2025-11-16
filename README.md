@@ -8,12 +8,12 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology's advance isn't inherently good.
-It's a tool, like a hammer or a saw.
-What we build with it, and how we use it,
-Determines if it helps or hurts.
-Blind faith in progress is a dangerous gamble.
+> "Technology isn't inherently good or bad.
+It's a tool, a lever.
+It amplifies what already exists.
+Ignorance and malice multiplied by tech
+are still ignorance and malice. Use it wisely.
 
-- Ada Lovelace Jr."
+- Anya Sharma"
 
-*🕒 Updated on 2025-11-16 14:17*
+*🕒 Updated on 2025-11-16 17:21*
