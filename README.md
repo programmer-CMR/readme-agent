@@ -8,11 +8,11 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "New tech solves problems, but it also creates new ones.
-Ignoring that fact is lazy planning.
-Focus on the second-order effects, the unexpected consequences.
-If your 'progress' doesn't consider those, it will fail.
-The best tech isn’t just shiny; it's sustainable for everyone."
-- Janice Riley"
+> "Technology fixes problems and creates new ones.
+Every step forward makes us blind to something behind.
+Efficiency demands we question what is actually saved.
+Don’t trust the hype, look at who truly benefits.
+Progress is only progress if it lifts everyone up, not just a few.
+- Anya Sharma"
 
-*🕒 Updated on 2025-11-17 08:35*
+*🕒 Updated on 2025-11-17 11:20*
