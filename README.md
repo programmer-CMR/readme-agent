@@ -8,11 +8,11 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology solves problems, but creates new ones.
-Don't assume a shiny app fixes a broken system.
-Efficiency gains demand workforce adaptation.
-Progress isn't always linear, it's often messy.
-Focus on managing the impact, not just the innovation.
-- Grace Hopper Jr."
+> "New tech solves problems, but it also creates new ones.
+Ignoring that fact is lazy planning.
+Focus on the second-order effects, the unexpected consequences.
+If your 'progress' doesn't consider those, it will fail.
+The best tech isn’t just shiny; it's sustainable for everyone."
+- Janice Riley"
 
-*🕒 Updated on 2025-11-16 20:24*
+*🕒 Updated on 2025-11-17 08:35*
