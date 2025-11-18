@@ -8,9 +8,12 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Here's your quote:
+> "Technology isn't magic; it's a tool.
+A powerful one, sure, but still a tool.
+It amplifies what we already are: good or bad.
+If your aim is foolishness, it will just help you be a bigger fool, faster.
+So, figure out what's worth doing *before* you automate it.
 
-"Don't mistake innovation for improvement. Just because something *can* be done faster with technology, doesn't mean it *should* be done that way. Evaluate the actual benefit. Consider the cost, both financial and human. Look at who truly profits. Only then can you say technology has truly moved us forward, not just sideways at high speed."
-- Elias Thorne"
+- Jane Morrow"
 
-*🕒 Updated on 2025-11-18 17:25*
+*🕒 Updated on 2025-11-18 20:27*
