@@ -8,12 +8,12 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology isn't magic; it's a tool.
-A powerful one, sure, but still a tool.
-It amplifies what we already are: good or bad.
-If your aim is foolishness, it will just help you be a bigger fool, faster.
-So, figure out what's worth doing *before* you automate it.
+> "Technology isn't automatically progress. It's a tool.
+A faster hammer doesn't build a better house if you're using the wrong nails, or if the foundation is cracked.
+Focus on *why* you're building, and *who* benefits.
+Otherwise, you're just making problems happen faster.
+Constant innovation without purpose is just expensive noise.
 
-- Jane Morrow"
+- Eleanor Vance"
 
-*🕒 Updated on 2025-11-18 20:27*
+*🕒 Updated on 2025-11-19 08:33*
