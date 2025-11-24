@@ -8,11 +8,16 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology doesn't solve human problems. It amplifies them.
-If you're unethical, tech makes you an efficient unethical person.
-If you're greedy, tech lets you grab more, faster.
-Don't mistake faster problem-making for progress.
-Genuine improvement requires better people, not just better tools.
-- Admiral Grace Hopper"
+> "Technology isn't magic. It's a tool.
 
-*🕒 Updated on 2025-11-24 08:35*
+Treat it like one. Learn how it works,
+
+understand what it can break, and always
+
+ask who benefits. Blind faith in progress
+
+is just laziness disguised as optimism.
+
+- Alice Nguyen"
+
+*🕒 Updated on 2025-11-24 11:21*
