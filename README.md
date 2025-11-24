@@ -8,16 +8,12 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology isn't magic. It's a tool.
+> "Technology changes things. That's its job.
+But faster isn't always better, just...faster.
+Consider what gets lost in the process, and who.
+Build responsibly, or you're just breaking things for profit.
+Think about the consequences *before* you click 'deploy'.
 
-Treat it like one. Learn how it works,
+- Eleanor Vance"
 
-understand what it can break, and always
-
-ask who benefits. Blind faith in progress
-
-is just laziness disguised as optimism.
-
-- Alice Nguyen"
-
-*🕒 Updated on 2025-11-24 11:21*
+*🕒 Updated on 2025-11-24 14:21*
