@@ -8,7 +8,11 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology solves problems, but creates new ones just as fast. Don't assume progress is always forward. Understand the cost before adopting anything new. Data is power, but also responsibility. Ignoring either invites disaster.
-- Anya Sharma"
+> "Technology isn't magic.
+It's just a tool we build.
+If it makes things worse,
+we screwed up the design.
+Time to fix it, not blame the tool.
+- Eleanor Vance"
 
-*🕒 Updated on 2025-11-24 20:27*
+*🕒 Updated on 2025-11-25 08:34*
