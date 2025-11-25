@@ -8,11 +8,7 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology isn't magic.
-It's just a tool we build.
-If it makes things worse,
-we screwed up the design.
-Time to fix it, not blame the tool.
-- Eleanor Vance"
+> "Technology changes the tool, not the problem. Hunger was hunger before tractors, and isolation is isolation with a phone. Progress only moves the battlefield. What mattered yesterday still matters today, just fought with a new weapon. Don't mistake convenience for improvement of character.
+- Amelia Earhart"
 
-*🕒 Updated on 2025-11-25 08:34*
+*🕒 Updated on 2025-11-25 11:21*
