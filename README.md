@@ -8,7 +8,11 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology solves problems, but it creates new ones we didn't anticipate. Ignoring those new problems just makes the old ones look manageable. We need to budget for the cleanup, not just the upgrade. And "later" becomes "never" real quick. Progress isn't free, it's just debt we put on future generations.
-- Amelia Hernandez"
+> "New tech solves old problems, sure. But it also makes new ones we never even thought of.
+Don't get so caught up in the shine that you forget to check if the foundation is cracking.
+Every advance comes with a cost. Someone, somewhere, is paying it.
+So before you automate everything, ask yourself: who loses their job? Who loses their voice?
+Progress isn’t just about what’s *possible*. It's about what's *right*."
+- Grace Hopper"
 
-*🕒 Updated on 2025-11-28 11:20*
+*🕒 Updated on 2025-11-28 14:20*
