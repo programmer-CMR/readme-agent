@@ -8,11 +8,11 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology solves problems, but creates new ones. Expect it.
-Planning for those consequences is not optional.
-Ignoring them leads to more trouble than the original problem.
-Always ask: What could go wrong? And who will be affected?
-Progress is not inherently good; only thoughtful progress is.
-- Eleanor Vance"
+> "Technology promises solutions.
+But it's only a tool.
+It's your understanding of the problem
+and the ethics of your application
+that determine whether it helps or hurts.
+- Elias Vance"
 
-*🕒 Updated on 2025-11-28 17:24*
+*🕒 Updated on 2025-11-28 20:25*
