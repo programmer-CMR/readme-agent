@@ -8,7 +8,11 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology's promise is always double-edged. It can streamline a supply chain or spread misinformation globally in seconds. Understand that power comes with responsibility. Before automating jobs, think about the displaced. Before launching a platform, consider the potential for abuse. Never assume progress is inherently good; scrutinize every step.
-- Elara Vance, Systems Analyst"
+> "Technology isn't magic, it's just a tool.
+It can build a house or burn it down.
+Whether it helps or hurts depends on who's holding it.
+So before you chase the newest gadget,
+ask yourself: What am I building with it?"
+- Beatrice Dubois"
 
-*🕒 Updated on 2025-11-30 14:18*
+*🕒 Updated on 2025-11-30 17:23*
