@@ -8,12 +8,12 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology promises efficiency, but delivers complexity.
-New tools solve old problems and create brand new ones.
-Progress isn't about faster speeds, it's about better decisions.
-Always ask, "What does this *really* change, and for whom?"
-If a device needs constant updating, it's not liberation.
+> "Technology promises efficiency.
+It also creates dependence.
+Understand what you gain,
+and what you lose.
+Don't let shiny tools control you.
 
-- Eleanor Vance"
+- Ada Lovelace Jones"
 
-*🕒 Updated on 2025-12-02 14:23*
+*🕒 Updated on 2025-12-02 17:29*
