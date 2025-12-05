@@ -8,11 +8,12 @@ Every day, this file is automatically updated with a new quote, thanks to a Lang
 
 ## 📅 Daily Quote
 
-> "Technology offers tools, not solutions.
-Progress isn't automatic; it demands participation.
-Consider the impact on people, not just efficiency.
-What you automate, you also delegate responsibility.
-Always ask: is this truly making things better, or just faster?
-- Evelyn Reed"
+> "Technology promised to make things easier.
+But "easy" only means we expect more.
+Now deadlines are tighter, expectations higher,
+and the work never truly stops.
+Just remember to unplug sometimes.
 
-*🕒 Updated on 2025-12-05 14:22*
+- Evelyn Hayes, Efficiency Consultant"
+
+*🕒 Updated on 2025-12-05 17:26*
